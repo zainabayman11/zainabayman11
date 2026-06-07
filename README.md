@@ -28,6 +28,7 @@ Hi! I'm **Zainab Ayman**, an **AI Engineer** specializing in **Generative AI** a
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logo=robotframework&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP_Integration-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude Agent SDK](https://img.shields.io/badge/Claude_Agent_SDK-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 
@@ -82,17 +83,21 @@ Hi! I'm **Zainab Ayman**, an **AI Engineer** specializing in **Generative AI** a
 
 ## 🚀 Featured AI Projects
 
+### 🛰️ Sentry Claude Pipeline — Autonomous Bug-Fixing Agent (Claude Agent SDK)
+An autonomous bug-fixing system that ingests error clusters from **Sentry** and uses the **Claude Agent SDK** to **plan → execute → review → push** fixes as GitHub Pull Requests with minimal human oversight. Each error cluster becomes a self-contained "fix unit" running in an **isolated git worktree** with its own PR. Features a **memory system** that fuzzy-matches similar historical incidents to feed Claude past fixes as context, plus token/cost logging, batch processing, resume capability, and framework-specific guidance (e.g. Odoo). Built with **Python 3.11+**, GitHub CLI, and the Claude Code CLI.
+🔗 [github.com/zainabayman11/sentry-claude-pipeline](https://github.com/zainabayman11/sentry-claude-pipeline)
+
 ### 🔍 Resello AI Inspector — Multimodal AI & Re-Commerce
 End-to-end AI system for automated visual inspection and dynamic pricing. Integrates **CLIP + Gemini Vision** for damage detection and resale condition analysis — **reducing manual inspection effort by 60%**.
-🔗 _[ضيفي لينك الـ repo هنا]_
+🔗 [github.com/zainabayman11/ReSello-v2](https://github.com/zainabayman11/ReSello-v2)
 
 ### 🤖 Autonomous Job Application AI Agent — Agentic AI
 Goal-oriented autonomous agent following a **Goal → Plan → Act** architecture to automate job search and applications. Includes JD analysis, CV matching, and personalized cover letter generation using **LangChain & LangGraph**.
-🔗 _[ضيفي لينك الـ repo هنا]_
+🔗 [github.com/zainabayman11/Autonomous-Job-Application-Ai-Agent](https://github.com/zainabayman11/Autonomous-Job-Application-Ai-Agent)
 
 ### 👥 AI Procurement Agent Crew — Multi-Agent System
 A **CrewAI-based multi-agent system** for product search, scraping, evaluation, and reporting. Integrates external tools for reliable data extraction and decision-making, with automated structured **HTML reports**.
-🔗 _[ضيفي لينك الـ repo هنا]_
+🔗 [github.com/zainabayman11/AI-Procurement-Agent-Crew](https://github.com/zainabayman11/AI-Procurement-Agent-Crew)
 
 ### 🧴 NutriSkin Bot — Computer Vision
 Vitamins deficiency detection using **image processing and neural networks**.
@@ -106,6 +111,7 @@ Football match analysis using computer vision and machine learning techniques.
 
 ## 💼 Experience
 
+- **AI Software Developer (Intern)** — SoftSpace _(Present)_ · Built the **Sentry Claude Pipeline** — an autonomous bug-fixing agent powered by the **Claude Agent SDK**; currently developing **AI capabilities inside Odoo ERP**
 - **AI Intern** — Orange Innovation Egypt _(Feb 2026 – Present)_ · Researching LLMs, Generative AI & Small Language Models (SLMs)
 - **AI Trainee** — NTI Hire Ready Program _(Oct 2025 – Jan 2026)_ · Intensive hands-on AI program; built 6+ end-to-end AI projects
 - **AI Hackathon Participant** — Tech Titans / Salam Hackathon _(Oct 2024)_ · Ranked #9 of 300+ teams worldwide

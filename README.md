@@ -15,7 +15,7 @@ Hi! I'm **Zainab Ayman**, an **AI Engineer** specializing in **Generative AI** a
 - 🧠 Building **autonomous agents, multi-agent workflows, and AI automation solutions**
 - 🔗 Hands-on with **LangChain, LangGraph, CrewAI, RAG pipelines, and MCP integration**
 - 💼 **AI Software Developer @ SoftSpace** — building AI capabilities inside **ERP systems (Odoo)**
-- 🔬 **AI Intern @ Orange Innovation Egypt** — researching LLMs & Small Language Models (SLMs)
+- 🔬 **AI Researcher & Intern @ Orange Innovation Egypt** — researching LLMs & **Small Language Models (SLMs)**, with research **soon to be published**
 - 🧩 Strong hands-on experience with **Claude & the Claude Agent SDK** for building **autonomous AI workflows** and developer tooling
 - 🏆 Ranked **#9 out of 300+ teams** worldwide at the Salam Hackathon
 
@@ -73,10 +73,12 @@ Hi! I'm **Zainab Ayman**, an **AI Engineer** specializing in **Generative AI** a
 
 <div align="center">
 
-![Zainab's GitHub stats](https://github-readme-stats.vercel.app/api?username=zainabayman11&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zainabayman11&layout=compact&theme=tokyonight)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=zainabayman11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Zainab's GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainabayman11&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zainabayman11&theme=tokyonight)
+<br/>
+
+<img height="180" src="https://streak-stats.demolab.com/?user=zainabayman11&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -113,7 +115,7 @@ Football match analysis using computer vision and machine learning techniques.
 ## 💼 Experience
 
 - **AI Software Developer (Intern)** — SoftSpace _(Present)_ · Built the **Sentry Claude Pipeline** — an autonomous bug-fixing agent powered by the **Claude Agent SDK**; currently developing **AI capabilities inside Odoo ERP**
-- **AI Intern** — Orange Innovation Egypt _(Feb 2026 – Present)_ · Researching LLMs, Generative AI & Small Language Models (SLMs)
+- **AI Researcher & Intern** — Orange Innovation Egypt _(Feb 2026 – Present)_ · Researching LLMs, Generative AI & Small Language Models (SLMs) — **upcoming research publication on SLMs**
 - **AI Trainee** — NTI Hire Ready Program _(Oct 2025 – Jan 2026)_ · Intensive hands-on AI program; built 6+ end-to-end AI projects
 - **AI Hackathon Participant** — Tech Titans / Salam Hackathon _(Oct 2024)_ · Ranked #9 of 300+ teams worldwide
 
@@ -131,7 +133,7 @@ Before focusing on AI, I built cross-platform mobile apps with **React Native**:
 ## 📫 Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://zainab-ayman-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zainab-el-shalaby-5a9739242/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zainab-ayman-5a9739242/)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/zainabayman)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zainabayman69@gmail.com)
 

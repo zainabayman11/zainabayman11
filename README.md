@@ -14,8 +14,9 @@ Hi! I'm **Zainab Ayman**, an **AI Engineer** specializing in **Generative AI** a
 
 - 🧠 Building **autonomous agents, multi-agent workflows, and AI automation solutions**
 - 🔗 Hands-on with **LangChain, LangGraph, CrewAI, RAG pipelines, and MCP integration**
+- 💼 **AI Software Developer @ SoftSpace** — building AI capabilities inside **ERP systems (Odoo)**
 - 🔬 **AI Intern @ Orange Innovation Egypt** — researching LLMs & Small Language Models (SLMs)
-- 🚀 Built **6+ end-to-end AI projects** across NLP, Computer Vision, and LLM-based systems
+- 🧩 Strong hands-on experience with **Claude & the Claude Agent SDK** for building **autonomous AI workflows** and developer tooling
 - 🏆 Ranked **#9 out of 300+ teams** worldwide at the Salam Hackathon
 
 ---
